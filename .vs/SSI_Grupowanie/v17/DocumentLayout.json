@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\SSI_Grupowanie\\SSI_Grupowanie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57963803-0B5A-410D-B898-CCB60FD29A9F}|SSI_AlgEwolucyjne\\SSI_AlgEwolucyjne.csproj|c:\\users\\lenovo\\desktop\\ssi_grupowanie\\ssi_grupowanie\\ssi_algewolucyjne\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57963803-0B5A-410D-B898-CCB60FD29A9F}|SSI_AlgEwolucyjne\\SSI_AlgEwolucyjne.csproj|solutionrelative:ssi_algewolucyjne\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57963803-0B5A-410D-B898-CCB60FD29A9F}|SSI_AlgEwolucyjne\\SSI_AlgEwolucyjne.csproj|c:\\users\\lenovo\\desktop\\ssi_grupowanie\\ssi_grupowanie\\ssi_algewolucyjne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{57963803-0B5A-410D-B898-CCB60FD29A9F}|SSI_AlgEwolucyjne\\SSI_AlgEwolucyjne.csproj|solutionrelative:ssi_algewolucyjne\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\lenovo\\desktop\\ssi_grupowanie\\ssi_grupowanie\\ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\lenovo\\desktop\\ssi_grupowanie\\ssi_grupowanie\\ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\lenovo\\desktop\\ssi_grupowanie\\ssi_grupowanie\\ssi_grupowanie\\algorytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\algorytm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|c:\\users\\lenovo\\desktop\\ssi_grupowanie\\ssi_grupowanie\\ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264C04CE-5861-4D37-BEF7-9493BCAC59E1}|SSI_Grupowanie\\SSI_Grupowanie.csproj|solutionrelative:ssi_grupowanie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +30,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SSI_Grupowanie\\SSI_Grupowanie\\SSI_AlgEwolucyjne\\Class1.cs",
+              "RelativeDocumentMoniker": "SSI_AlgEwolucyjne\\Class1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SSI_Grupowanie\\SSI_Grupowanie\\SSI_AlgEwolucyjne\\Class1.cs",
+              "RelativeToolTip": "SSI_AlgEwolucyjne\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T11:26:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SSI_Grupowanie\\SSI_Grupowanie\\SSI_AlgEwolucyjne\\Form1.cs",
+              "RelativeDocumentMoniker": "SSI_AlgEwolucyjne\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\SSI_Grupowanie\\SSI_Grupowanie\\SSI_AlgEwolucyjne\\Form1.cs [Projekt]",
+              "RelativeToolTip": "SSI_AlgEwolucyjne\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T11:25:02.845Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Algorytm.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SSI_Grupowanie\\SSI_Grupowanie\\SSI_Grupowanie\\Algorytm.cs",
               "RelativeDocumentMoniker": "SSI_Grupowanie\\Algorytm.cs",
@@ -34,8 +67,7 @@
               "RelativeToolTip": "SSI_Grupowanie\\Algorytm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T10:35:08.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T10:35:08.149Z"
             },
             {
               "$type": "Document",
@@ -52,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\SSI_Grupowanie\\SSI_Grupowanie\\SSI_Grupowanie\\Form1.cs",
               "RelativeDocumentMoniker": "SSI_Grupowanie\\Form1.cs",
